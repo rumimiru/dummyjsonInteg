@@ -1,4 +1,4 @@
-# dummyjsonInteg
+# DummyJSON APP Integrative Programming
 
 This is an integrative programming project developed by Mharx Nevin and Francine Nicole. The system is a web-based application built using PHP, designed to demonstrate core concepts in full-stack development, including user authentication, product management, and session handling.
 
